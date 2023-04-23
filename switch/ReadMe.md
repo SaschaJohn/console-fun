@@ -1,7 +1,7 @@
 Update Hekate: https://github.com/CTCaer/hekate/releases
 Update Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
 Download Firmware: https://darthsternie.net/switch-firmwares/ or https://archive.org/download/nintendo-switch-global-firmwares
-Add signature patches to hekate and atmosphere
+Add signature patches to hekate and atmosphere https://wiidatabase.de/switch-downloads/hacks/signatur-patches/
 Start Hekate -> tools -> fix archive bit (Archive bit might be set on folders, this leads to corrupte Atmosphere boot)
 Boot to sysnand
 Run Daybreak (Album, Install -> Select folder, select preserve settings, select fat32+Exfat)
