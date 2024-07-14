@@ -1,7 +1,7 @@
 Turn off device, remove Micro-SD, add to card reader in PC  
 Update Hekate: https://github.com/CTCaer/hekate/releases  
-(Rename hekate...-.bin to payload.bin, copy into bootloader directory )
-Update Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
+(Rename hekate...-.bin to payload.bin, copy into bootloader directory )  
+Update Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases  
 Add signature patches to hekate and atmosphere https://wiidatabase.de/switch-downloads/hacks/signatur-patches/  
 Download Firmware: https://darthsternie.net/switch-firmwares/ or https://archive.org/download/nintendo-switch-global-firmwares  
 Extract firmware.zip and put .nca files on Micro-SD card  
